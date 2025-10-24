@@ -1,0 +1,10 @@
+export const SAMPLE_PROPERTIES = [
+  { id: 'p1', owner: 'admin@haridwar.edu', title: 'Cozy 1BHK near Har Ki Pauri', description: 'Small clean apartment in center of Haridwar with all amenities.', price: 1200, location: 'Haridwar', images: ['https://picsum.photos/seed/p1/800/500'], available: true },
+  { id: 'p2', owner: 'admin@haridwar.edu', title: 'Guest Room with Ganga View', description: 'Comfortable room with shared bathroom and amazing Ganga view.', price: 1800, location: 'Rishikesh', images: ['https://picsum.photos/seed/p2/800/500'], available: true },
+  { id: 'p3', owner: 'admin@haridwar.edu', title: 'Luxury Villa in Mussoorie', description: '3BHK Villa with private pool and garden.', price: 5000, location: 'Mussoorie', images: ['https://picsum.photos/seed/p3/800/500'], available: true },
+  { id: 'p4', owner: 'admin@haridwar.edu', title: 'Budget Stay in Dehradun', description: 'Affordable stay for students and travelers.', price: 900, location: 'Dehradun', images: ['https://picsum.photos/seed/p4/800/500'], available: true },
+  { id: 'p5', owner: 'admin@haridwar.edu', title: 'Family Apartment in Haridwar', description: '2BHK apartment suitable for family with kitchen & parking.', price: 2200, location: 'Haridwar', images: ['https://picsum.photos/seed/p5/800/500'], available: true },
+  { id: 'p6', owner: 'admin@haridwar.edu', title: 'Riverside Cottage in Rishikesh', description: 'Rustic cottage with river access and meditation zone.', price: 3500, location: 'Rishikesh', images: ['https://picsum.photos/seed/p6/800/500'], available: true },
+  { id: 'p7', owner: 'admin@haridwar.edu', title: 'Modern Studio in Dehradun', description: 'Compact studio apartment with modern furniture.', price: 1300, location: 'Dehradun', images: ['https://picsum.photos/seed/p7/800/500'], available: true },
+  { id: 'p8', owner: 'admin@haridwar.edu', title: 'Hillside Cottage in Mussoorie', description: 'Cottage with panoramic mountain views.', price: 4000, location: 'Mussoorie', images: ['https://picsum.photos/seed/p8/800/500'], available: true }
+];
